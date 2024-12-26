@@ -1,0 +1,1 @@
+/home/itachi/.config/qtile/config.py
